@@ -319,3 +319,4 @@ TestResults.xml
 
 # Exceptions
 !src/System Application/Test/Extension Management/testArtifacts/*.app
+.DS_Store
